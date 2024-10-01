@@ -39,4 +39,26 @@ The project provides an example of how to deploy a CNN model using Flask, making
 
 ### Support for Multiple Image Formats:
 The project is designed to handle various image formats, preprocess them, and use the model for accurate classification.
+
+## Dataset
 The link for dataset: https://justedujo-my.sharepoint.com/:f:/g/personal/inodeh19_eng_just_edu_jo/ErT5Fx_YsMtKoTpvvyckkRcBRERKhQOGBjizgj-0JdOzdA?e=0rBRBE
+
+The dataset used for this project consists of labeled images of crops and weeds captured from agricultural fields. Each image is categorized into one of two classes: crops or weeds. The images vary in size, lighting, and background conditions, simulating real-world agricultural environments.
+
+The dataset is preprocessed using resizing and normalization techniques to ensure uniformity before being fed into the Convolutional Neural Network (CNN). Data augmentation, such as random rotations, flips, and zooms, is applied during training to improve the model's generalization to unseen data. This dataset serves as a crucial component for training the model to accurately distinguish between crops and weeds in real-time.
+
+## Packages Installed
+TenssorFlow
+Keras
+Flask
+werkzeug (for securely handiling file uploads into Flask application)
+numpy
+opencv-python
+matplotlib
+
+## Example images 
+Sample Images of Crop and Weed
+
+
+
+
