@@ -48,13 +48,14 @@ The dataset used for this project consists of labeled images of crops and weeds 
 The dataset is preprocessed using resizing and normalization techniques to ensure uniformity before being fed into the Convolutional Neural Network (CNN). Data augmentation, such as random rotations, flips, and zooms, is applied during training to improve the model's generalization to unseen data. This dataset serves as a crucial component for training the model to accurately distinguish between crops and weeds in real-time.
 
 ## Packages Installed
-TenssorFlow
-Keras
-Flask
-werkzeug (for securely handiling file uploads into Flask application)
-numpy
-opencv-python
-matplotlib
+- TenssorFlow
+- Keras
+- Flask
+- werkzeug (for securely handiling file uploads into Flask application)
+- numpy
+- opencv-python
+- matplotlib
+- pillow
 
 ## Example images 
 Sample Images of Crop and Weed
@@ -66,4 +67,7 @@ Weed
 
 ![Alt Text](https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/Weed_image.jpeg)
 
+## Flask Interface for classification of plants and weeds
+
+![Alt Text](https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/Screenshot%20(58).png)
 
