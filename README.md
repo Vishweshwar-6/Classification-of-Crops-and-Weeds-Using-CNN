@@ -58,10 +58,12 @@ matplotlib
 
 ## Example images 
 Sample Images of Crop and Weed
-
 Crop 
+
 ![Alt Text](https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/agri_0_980.jpeg)
 
+Weed 
 
+![Alt Text](https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/Weed_image.jpeg)
 
 
