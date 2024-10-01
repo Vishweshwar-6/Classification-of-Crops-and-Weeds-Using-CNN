@@ -60,7 +60,7 @@ matplotlib
 Sample Images of Crop and Weed
 Crop 
 
-![Alt Text](https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/agri_0_980.jpeg)
+![Alt Text]([https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/agri_0_980.jpeg](https://github.com/Vishweshwar-6/Classification-of-Crops-and-Weeds-Using-CNN/blob/main/Crop_image.jpeg))
 
 Weed 
 
