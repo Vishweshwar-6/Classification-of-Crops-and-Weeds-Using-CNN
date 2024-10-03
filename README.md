@@ -17,10 +17,10 @@ The project uses a Convolutional Neural Network (CNN) model with multiple layers
 Image preprocessing techniques, such as resizing, normalization, and data augmentation, are applied to improve the model's robustness and accuracy.
 
 - ### Efficient Training and Testing:
-The model is built, trained, and tested with **TensorFlow** and Keras, including optimizations such as the Adam optimizer and cross-entropy loss function.
+-- The model is built, trained, and tested with **TensorFlow** and Keras, including optimizations such as the Adam optimizer and cross-entropy loss function.
 
 - ### Model Fine-Tuning:
-The model includes several dense layers for fine-tuning and improved classification accuracy between crops and weeds.
+- - The model includes several dense layers for fine-tuning and improved classification accuracy between crops and weeds.
 
 - ### Model Saving and Loading:
 After training, the model is saved as an HDF5 file (.h5 format), thus the **try_one.h5** file is used for prediction in the Flask app.
