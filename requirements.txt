@@ -1,8 +1,9 @@
-tensorflow
-keras
-flask
-werkzeug
-numpy
-opencv-python
-matplotlib
-pillow
+Python
+TensorFlow
+Keras
+Flask
+Werkzeug
+NumPy
+OpenCV
+Matplotlib
+Pillow
