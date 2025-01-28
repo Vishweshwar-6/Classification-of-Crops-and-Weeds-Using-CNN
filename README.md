@@ -56,6 +56,7 @@ The dataset is preprocessed using resizing and normalization techniques to ensur
 - **OpenCV**: For image processing and transformation (optional).
 - **Matplotlib**: For plotting and visualizing the data or training performance (optional).
 - **Pillow**: For handling image operations in Python (used by `load_img`).
+- **protobuf**: version ==3.20.3
 
 ## Example images 
 Sample Images of Crop and Weed
