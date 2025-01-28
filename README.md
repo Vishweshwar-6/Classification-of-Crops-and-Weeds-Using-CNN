@@ -48,11 +48,11 @@ The dataset used for this project consists of labeled images of crops and weeds 
 The dataset is preprocessed using resizing and normalization techniques to ensure uniformity before being fed into the Convolutional Neural Network (CNN). Data augmentation, such as random rotations, flips, and zooms, is applied during training to improve the model's generalization to unseen data. This dataset serves as a crucial component for training the model to accurately distinguish between crops and weeds in real-time.
 
 ## Packages Installed
-- **TensorFlow**: For building and training the Convolutional Neural Network (CNN) model.
+- **TensorFlow**: version==2.2.* For building and training the Convolutional Neural Network (CNN) model.
 - **Keras**: For high-level API in TensorFlow to build the CNN architecture.
 - **Flask**: For building the web-based front-end interface to allow user interaction with the model.
 - **Werkzeug**: For securely handling file uploads in Flask.
-- **NumPy**: For numerical operations and handling image arrays.
+- **NumPy**: version==1.19.5 For numerical operations and handling image arrays.
 - **OpenCV**: For image processing and transformation (optional).
 - **Matplotlib**: For plotting and visualizing the data or training performance (optional).
 - **Pillow**: For handling image operations in Python (used by `load_img`).
